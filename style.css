@@ -717,11 +717,6 @@ color: #c59d5f;
 
 @media(max-width: 900px){
 
-.producto-horizontal{
-
-flex-direction: column !important;
-
-}
 
 .producto-horizontal img{
 
