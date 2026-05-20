@@ -655,11 +655,7 @@ box-shadow: 0px 0px 15px rgba(0,0,0,0.15);
 
 /* AUTOMATICO */
 
-.producto-horizontal:nth-child(even){
 
-flex-direction: row-reverse;
-
-}
 
 /* IMAGENES */
 
