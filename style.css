@@ -631,7 +631,7 @@ font-size: 24px;
 
 /* PRODUCTOS */
 
-.producto-horizontal{
+.producto{
 
 display: flex;
 
@@ -659,7 +659,7 @@ box-shadow: 0px 0px 15px rgba(0,0,0,0.15);
 
 /* IMAGENES */
 
-.producto-horizontal img{
+.producto img{
 
 width: 400px;
 
@@ -714,7 +714,7 @@ color: #c59d5f;
 @media(max-width: 900px){
 
 
-.producto-horizontal img{
+.producto img{
 
 width: 100%;
 
